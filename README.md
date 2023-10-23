@@ -21,3 +21,4 @@ merger la branche B
 1. commit1 sur main
 2. commit2 sur main
 3. commit2 sur main
+4. commit4 sur brancheB
